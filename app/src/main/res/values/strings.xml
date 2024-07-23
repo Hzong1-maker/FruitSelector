@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FruitSelector</string>
+    <string-array name="fruits">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Date</item>
+        <item>Elderberry</item>
+    </string-array>
+</resources>
